@@ -1,5 +1,4 @@
-<sup>**Front End Developer**</sup>
-# **Silvana Paola Aguirre** | silpagui.github.io
+# **Silvana Paola Aguirre** | Front End Developer
 
 ## About Me
 A front end developer, encouraged to challenges and focused to learn and apply.
