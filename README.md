@@ -9,7 +9,7 @@ By having my background as a teacher, I've realised that for any new developer h
 
 Reading a ton of books, papers and improving my skills every day, not with brute force but with a lot of critical thinking and practice I can say with confidence that I can bring value to a project, I am a doer.
 
-Specialties: Front End development, internal/external trainer, soft skills, fast adaptability, fast learning.
+**Specialties**: Front End development, internal/external trainer, soft skills, fast adaptability, fast learning.
 
 **Technical Skills**: HTML5, CSS3, Javascript, React, Axios, SCSS, Git
 
@@ -39,7 +39,7 @@ Responsive web page from devchallenge.io. Interacting with localStorage Web API 
 **Technologies used:**
 React, Javascript ( Includes localStorage Web API ), HTML5, SCSS, CSS3
 
-### [Weather App](https://silpagui.github.io/weather-app/).
+### [Weather App](https://silpagui.github.io/weather-app/)
 
 _Note:_ This app requires cors-heroku as proxy, you might need to open the console and request access to cors-heroku
 
