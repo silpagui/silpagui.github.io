@@ -18,7 +18,7 @@ Reading a ton of books, papers and improving my skills every day, without brute 
 ### [HTML and CSS exercise - Thinking with Type](https://silpagui.github.io/thinking-with-type/)
 [View deployed version](https://silpagui.github.io/thinking-with-type/) | [View repository](https://github.com/silpagui/thinking-with-type)
 
-A desktop only, developed copy of the sections on a page that I really love ( [real link](http://thinkingwithtype.com/text/#line-spacing) ). Putting in practice my CSS skills with really complex layouts transforming the page's book images into styled typography. 
+A desktop only, developed copy of the sections on a page that I really love ( [real link](http://thinkingwithtype.com/text/#line-spacing) ). Putting in practice my SCSS/CSS skills with really complex layouts transforming the page's book images into styled typography. 
 
 **Technologies used:**
 HTML5, SCSS, CSS3 ( Including CSS Grid and CSS Flexbox )
