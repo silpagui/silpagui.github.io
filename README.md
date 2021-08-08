@@ -48,7 +48,7 @@ Responsive web app from devchallenge.io. Interacting with localStorage Web API b
 React, Javascript ( Includes localStorage Web API ), HTML5, SCSS, CSS3, Figma
 
 ### [Weather App ![Responsive](./assets/vectors/responsive-icon.svg)](https://silpagui.github.io/weather-app/)
-[View deployed version](https://silpagui.github.io/Weather-app/) | [View repository](https://github.com/silpagui/Weather-app)
+[View deployed version](https://silpagui.github.io/weather-app/) | [View repository](https://github.com/silpagui/weather-app)
 
 ```sh
 Note: This app requires cors-heroku as proxy, please follow the instructions that appears at the top of the page to have the proper experience. Thank you!
