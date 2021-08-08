@@ -6,7 +6,7 @@
 
 **Work Permit**: Allowed to work in Germany. No Visa required.
 
-**Languages**: English ( Advanced ), Spanish ( Native ), Portuguese ( Basic ).
+**Languages**: English ( Professional Proficiency ), Spanish ( Native ), Portuguese ( Elementary proficiency ).
 
 <hr>
 
