@@ -38,7 +38,7 @@ React, Javascript ( Includes fetch Web API ), HTML5, SCSS, CSS3, Figma
 ### [To Do App](https://silpagui.github.io/to-do-app/)
 [View deployed version](https://silpagui.github.io/to-do-app/) | [View repository](https://github.com/silpagui/to-do-app)
 
-Responsive web page from devchallenge.io. Interacting with localStorage Web API reading/setting different data and mantain sync with my local component's state.
+Responsive web page from devchallenge.io. Interacting with localStorage Web API reading/setting different data and maintain sync with my local component's state.
 
 **Technologies used:**
 React, Javascript ( Includes localStorage Web API ), HTML5, SCSS, CSS3, Figma
