@@ -29,7 +29,9 @@ Responsive web page from devchallenge.io. By translating figma files into a real
 **Technologies used:**
 React, Javascript, HTML5, SCSS, CSS3, Figma
 
-### [Random Quote Generator](https://silpagui.github.io/random-quote-generator/)
+### [Random Quote Generator ![Responsive](./assets/vectors/responsive-icon.svg)](https://silpagui.github.io/random-quote-generator/)
+[View deployed version](https://silpagui.github.io/random-quote-generator/) | [View repository](https://github.com/silpagui/random-quote-generator)
+
 Responsive web page from devchallenge.io. The challenge here was to use a public API to get random quotes and pave the concept of promises and async code that might affect the UI in different ways.
 
 **Technologies used:**
