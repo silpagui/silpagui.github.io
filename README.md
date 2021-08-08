@@ -23,7 +23,9 @@ A desktop only, developed copy of the sections on a page that I really love ( [r
 **Technologies used:**
 HTML5, SCSS, CSS3 ( Including CSS Grid and CSS Flexbox )
 
-### [404 Page](https://silpagui.github.io/404-page/)
+### [404 Page ![Responsive](./assets/vectors/responsive-icon.svg)](https://silpagui.github.io/404-page/)
+[View deployed version](https://silpagui.github.io/404-page/) | [View repository](https://github.com/silpagui/404-page)
+
 Responsive web page from devchallenge.io. By translating figma files into a real production ready page by using React as component based library.
 
 **Technologies used:**
