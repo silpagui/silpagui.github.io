@@ -1,5 +1,14 @@
 # **Silvana Paola Aguirre** | Front End Developer
 
+|  |  |
+| ------ | ------ |
+| Email | [silpagui.sa@gmail.com](mailto:silpagui.sa@gmail.com) |
+| Cellphone | +49 15739070810 |
+| LinkedIn | [silvana-aguirre](www.linkedin.com/in/silvana-aguirre) |
+| Residency | Berlin, GTM+2|
+| Work Permit | Allowed to work in Germany |
+| Language | English ( Advanced ), Spanish ( Native ), Portuguese ( Basic ) |
+
 ## About Me
 A front end developer, encouraged to challenges and focused to learn and apply.
 
