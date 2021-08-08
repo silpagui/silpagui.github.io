@@ -35,7 +35,7 @@ Responsive web page from devchallenge.io. The challenge here was to use a public
 **Technologies used:**
 React, Javascript ( Includes fetch Web API ), HTML5, SCSS, CSS3, Figma
 
-### [To Do App](https://silpagui.github.io/to-do-app/)
+### [To Do App](https://silpagui.github.io/to-do-app/) ![Responsive](./assets/vectors/responsive-icon.svg)
 [View deployed version](https://silpagui.github.io/to-do-app/) | [View repository](https://github.com/silpagui/to-do-app)
 
 Responsive web page from devchallenge.io. Interacting with localStorage Web API reading/setting different data and maintain sync with my local component's state.
