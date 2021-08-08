@@ -66,9 +66,7 @@ React, Javascript ( Includes localStorage Web API ), HTML5, SCSS, CSS3, Figma
 
 [View deployed version](https://silpagui.github.io/weather-app/) | [View repository](https://github.com/silpagui/weather-app)
 
-```sh
-Note: This app requires cors-heroku as proxy, please follow the instructions that appears at the top of the page to have the proper experience. Thank you!
-```
+> Note: This app requires cors-heroku as proxy, please follow the instructions that appears at the top of the page to have the proper experience. Thank you!
 
 Responsive web page from devchallenge.io. Challenging myself with a more complex website, interacting with geolocation Web API, creating promises from scratch and using a popular client library [axios](https://github.com/axios/axios).
 
