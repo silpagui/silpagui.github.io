@@ -22,7 +22,7 @@ Reading a ton of books and papers, with a lot of critical thinking and practice 
 
 **Specialties**: Front End development, internal/external trainer, soft skills, fast adaptability, fast learning.
 
-**Technical Skills**: HTML5, CSS3, Javascript, React, Axios, SCSS, Git, Figma
+**Technical Skills**: React, HTML5, CSS3, Javascript, Axios, SCSS, Git, Figma
 
 ## Portfolio
 
