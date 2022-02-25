@@ -73,4 +73,4 @@ React, Javascript, HTML5, SCSS, CSS3, Figma
 A desktop only, developed copy of the sections on a page that I really love ( [real link](http://thinkingwithtype.com/text/#line-spacing) ). Putting my SCSS/CSS skills into practice with really complex layouts transforming the page's book images into styled typography.
 
 **Technologies used:**
-HTML5, SCSS, CSS3 ( Including CSS Grid and CSS Flexbox )
+HTML5, SCSS, CSS3 ( Including CSS Grid and CSS Flexbox ) 
