@@ -1,3 +1,6 @@
+<img src="https://repository-images.githubusercontent.com/393731208/875b74d3-b04c-4e2d-9286-e18db67bd928" alt="Silvana Paola Aguirre" width="0" height="0"/>
+
+
 # **Silvana Paola Aguirre** | Fullstack Developer
 
 | Email                                                 | LinkedIn                                               | Residency     |
