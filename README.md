@@ -28,9 +28,9 @@ Reading a ton of books and papers, with a lot of critical thinking and practice 
 
 ## Portfolio
 
-### [Cartoons Series ![Responsive](./assets/vectors/responsive-icon.svg)](https://silpagui.github.io/cartoons-series/)
+### [Cartoon Series ![Responsive](./assets/vectors/responsive-icon.svg)](https://silpagui.github.io/cartoon-series/)
 
-[View deployed version](https://silpagui.github.io/cartoons-series/) | [View repository](https://github.com/silpagui/cartoons-series)
+[View deployed version](https://silpagui.github.io/cartoon-series/) | [View repository](https://github.com/silpagui/cartoon-series)
 
 **Technologies used:**
 React, Typescript, Redux, Redux Thunks, HTML5, SCSS, CSS3, Figma
