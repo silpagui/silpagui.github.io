@@ -1,6 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/393731208/875b74d3-b04c-4e2d-9286-e18db67bd928" alt="Silvana Paola Aguirre" width="0" height="0"/>
 
-
 # **Silvana Paola Aguirre** | Fullstack Developer
 
 | Email                                                 | LinkedIn                                               | Residency     |
@@ -28,6 +27,20 @@ Reading a ton of books and papers, with a lot of critical thinking and practice 
 **Technical Skills**: React, Redux, Typescript, React Router DOM, Node, Express, HTML5, CSS3, Javascript, Axios, SCSS, Git, Figma
 
 ## Portfolio
+
+### [Cartoons Series ![Responsive](./assets/vectors/responsive-icon.svg)](https://silpagui.github.io/cartoons-series/)
+
+[View deployed version](https://silpagui.github.io/cartoons-series/) | [View repository](https://github.com/silpagui/cartoons-series)
+
+**Technologies used:**
+React, Typescript, Redux, Redux Thunks, HTML5, SCSS, CSS3, Figma
+
+### [Countries React ![Responsive](./assets/vectors/responsive-icon.svg)](https://silpagui.github.io/countries-react/)
+
+[View deployed version](https://silpagui.github.io/countries-react/) | [View repository](https://github.com/silpagui/countries-react)
+
+**Technologies used:**
+React, Typescript, Redux, Redux Thunks, Bootstrap, HTML5, SCSS, CSS3, Figma
 
 ### [Random Quote Generator ![Responsive](./assets/vectors/responsive-icon.svg)](https://silpagui.github.io/random-quote-generator/)
 
@@ -76,4 +89,4 @@ React, Javascript, HTML5, SCSS, CSS3, Figma
 A desktop only, developed copy of the sections on a page that I really love ( [real link](http://thinkingwithtype.com/text/#line-spacing) ). Putting my SCSS/CSS skills into practice with really complex layouts transforming the page's book images into styled typography.
 
 **Technologies used:**
-HTML5, SCSS, CSS3 ( Including CSS Grid and CSS Flexbox ) 
+HTML5, SCSS, CSS3 ( Including CSS Grid and CSS Flexbox )
