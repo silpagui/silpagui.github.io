@@ -1,6 +1,6 @@
 <img src="https://repository-images.githubusercontent.com/393731208/875b74d3-b04c-4e2d-9286-e18db67bd928" alt="Silvana Paola Aguirre" width="0" height="0"/>
 
-# **Silvana Paola Aguirre** | Fullstack Developer
+# **Silvana Paola Aguirre** | Front End Developer
 
 | Email                                                 | LinkedIn                                               | Residency     |
 | ----------------------------------------------------- | ------------------------------------------------------ | ------------- |
@@ -14,7 +14,7 @@
 
 ## About Me
 
-I am a fullstack developer, encouraged by challenges and focused on learning and applying knowledge.
+I am a front end developer, encouraged by challenges and focused on learning and applying knowledge.
 
 During my years as a Technical College Teacher, and being really close to different technologies, I was always up to date on the latest software trends. Afterwards, I started my journey to HTML, CSS, Javascript and popular libraries such as React.js. Now, I feel ready to start a new position.
 
