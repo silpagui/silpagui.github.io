@@ -2,9 +2,9 @@
 
 # **Silvana Paola Aguirre** | Front End Developer
 
-| Email                                                 | LinkedIn                                               | Residency     |
-| ----------------------------------------------------- | ------------------------------------------------------ | ------------- |
-| [silpagui.sa@gmail.com](mailto:silpagui.sa@gmail.com) | [silvana-aguirre](www.linkedin.com/in/silvana-aguirre) | Berlin, GTM+2 |
+| Email                                                 | LinkedIn                                                       | Residency     |
+| ----------------------------------------------------- | -------------------------------------------------------------- | ------------- |
+| [silpagui.sa@gmail.com](mailto:silpagui.sa@gmail.com) | [silvana-aguirre](https://www.linkedin.com/in/silvana-aguirre) | Berlin, GTM+2 |
 
 **Work Permit**: Allowed to work in Germany. No Visa required.
 
