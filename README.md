@@ -22,7 +22,7 @@ By having my background as a teacher, I've realised how hard it is for any new d
 
 Reading a ton of books and papers, with a lot of critical thinking and practice improving my skills every day. I can say with confidence that I can bring value to a project, and that I am a doer.
 
-**Specialties**: Fullstack development, internal/external trainer, soft skills, fast adaptability, fast learning.
+**Specialties**: Front End development, internal/external trainer, soft skills, fast adaptability, fast learning.
 
 **Technical Skills**: React, Redux, Typescript, React Router DOM, Node, Express, HTML5, CSS3, Javascript, Axios, SCSS, Git, Figma
 
